@@ -1,0 +1,82 @@
+/* .homeAbout {
+  background-image: url("C:\Users\tsnee\OneDrive\Desktop\Reactjs\js\src\assets\africanhome.jpg");
+  width: 100%;
+  height: 1200px;
+  background-repeat: no-repeat;
+
+background-size: cover;
+  color: "#0b03fc";
+  background-position: center;
+   color: #0b03fc;  
+} */
+
+.hero {
+  position: relative;
+  background-image: url("C:\Users\tsnee\OneDrive\Desktop\Reactjs Project\js\src\assets\africanhome.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 700px;
+  color: #fff;
+}
+
+.hero::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.2);
+  z-index: 0;
+}
+
+.hero-content {
+  position: relative;
+  /* ensures text sits on top of the overlay */
+  z-index: 1;
+  text-align: center;
+  padding-top: 320px;
+  padding-right: 100px;
+}
+
+.feature-card {
+  background: #ffffff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  border-radius: 12px;
+}
+
+.feature-card h5 {
+  color: #0d6efd;
+  /* brand blue accents */
+}
+
+.feature-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0);
+  transition: 0.3s;
+}
+
+.section-why {
+  background-color: #f5f7fa;
+  /* light neutral backdrop */
+  color: #0d6efd;
+  padding: 50px 0;
+}
+
+.reviews h2 {
+  color: #0d6efd;
+  /* your brand blue */
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.quote {
+  font-size: 1.1rem;
+  color: #555;
+}
+
+.reviews .card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  transition: all 0.3s ease;
+}

@@ -1,0 +1,347 @@
+{
+  
+  "admin": [
+    {
+      "email": "workhub2025@gmail.com",
+      "password": "work@hub97",
+      "id": "9393"
+    }
+  ],
+  "users":[],
+  "booking":[],
+
+  "dedicated": [
+    {
+      "id": "D1 - Corner Desk",
+      "type": "Dedicated Desk",
+      "imagepath": "assets/dd1corner.avif",
+      "price": "5,000",
+      "per": "/month",
+      "details": [
+        "24/7 Access",
+        "High-Speed Wi-Fi",
+        "Complimentary Drinks"
+      ],
+      "available": true
+    },
+    {
+      "id": "D2 - Window View Desk",
+      "type": "Dedicated Desk",
+      "imagepath": "assets/dd2windowview.avif",
+      "price": "5,000",
+      "per": "/month",
+      "details": [
+        "24/7 Access",
+        "High-Speed Wi-Fi",
+        "Complimentary Drinks"
+      ],
+      "available": false
+    },
+    {
+      "id": "D3 - Center Office Desk",
+      "type": "Dedicated Desk",
+      "imagepath": "assets/dd3centeroffice.avif",
+      "price": "5,000",
+      "per": "/month",
+      "details": [
+        "24/7 Access",
+        "High-Speed Wi-Fi",
+        "Complimentary Drinks"
+      ],
+      "available": true
+    },
+    {
+      "id": "D4 - Wall Office Desk",
+      "type": "Dedicated Desk",
+      "imagepath": "assets/dd4walloffice.avif",
+      "price": "5,000",
+      "per": "/month",
+      "details": [
+        "24/7 Access",
+        "High-Speed Wi-Fi",
+        "Complimentary Drinks"
+      ],
+      "available": true
+    },
+    {
+      "id": "D5 - Dual Desk",
+      "type": "Dedicated Desk",
+      "imagepath": "assets/dd5shared.avif",
+      "price": "5,000",
+      "per": "/month",
+      "details": [
+        "24/7 Access",
+        "High-Speed Wi-Fi",
+        "Complimentary Drinks"
+      ],
+      "available": true
+    },
+    {
+      "id": "D6 - Shared Desk",
+      "type": "Dedicated Desk",
+      "imagepath": "assets/DDeskA1.png",
+      "price": "5,000",
+      "per": "/month",
+      "details": [
+        "24/7 Access",
+        "High-Speed Wi-Fi",
+        "Complimentary Drinks"
+      ],
+      "available": true
+    },
+    {
+      "id": "D7 - Corner Desk",
+      "type": "Dedicated Desk",
+      "imagepath": "assets/dd1corner.avif",
+      "price": "5,000",
+      "per": "/month",
+      "details": [
+        "24/7 Access",
+        "High-Speed Wi-Fi",
+        "Complimentary Drinks"
+      ],
+      "available": true
+    },
+    {
+      "id": "D8 - Window View Desk",
+      "type": "Dedicated Desk",
+      "imagepath": "assets/dd8window.jpg",
+      "price": "5,000",
+      "per": "/month",
+      "details": [
+        "24/7 Access",
+        "High-Speed Wi-Fi",
+        "Complimentary Drinks"
+      ],
+      "available": true
+    }
+  ],
+  "privateoffice": [
+    {
+      "id": "PB1",
+      "bookingcheck": "Private Office Basic",
+      "type": "Basic",
+      "imagepath": "assets/basicPrivateOffice.jpg",
+      "people": "1 - 2 People",
+      "price": "12,000",
+      "permonth": " /month",
+      "details": [
+        "Small Room (60 - 100 sq ft)",
+        "Lockable Door",
+        "24/7 Access",
+        "High-Speed Wi-Fi",
+        "Air Conditioning",
+        "Complimentary Drinks"
+      ],
+      "available": true
+    },
+    {
+      "id": "PB2",
+      "bookingcheck": "Private Office Basic",
+      "type": "Basic",
+      "imagepath": "assets/p1new.avif",
+      "people": "1 - 2 People",
+      "price": "12,000",
+      "permonth": " /month",
+      "details": [
+        "Small Room (60 - 100 sq ft)",
+        "Lockable Door",
+        "24/7 Access",
+        "High-Speed Wi-Fi",
+        "Air Conditioning",
+        "Complimentary Drinks"
+      ],
+      "available": true
+    },
+    {
+      "id": "PB3",
+      "bookingcheck": "Private Office Basic",
+      "type": "Basic",
+      "imagepath": "assets/pbnew.jpg",
+      "people": "1 - 2 People",
+      "price": "12,000",
+      "permonth": " /month",
+      "details": [
+        "Small Room (60 - 100 sq ft)",
+        "Lockable Door",
+        "24/7 Access",
+        "High-Speed Wi-Fi",
+        "Air Conditioning",
+        "Complimentary Drinks"
+      ],
+      "available": true
+    },
+    {
+      "id": "PS1",
+      "bookingcheck": "Private Office Standard",
+      "type": "Standard",
+      "imagepath": "assets/standardPrivateOffice.jpg",
+      "people": "3 - 4 People",
+      "price": "20,000",
+      "permonth": " /month",
+      "details": [
+        "Meduim Room (100–250 sq ft)",
+        "Lockable Door",
+        "24/7 Access",
+        "High-Speed Wi-Fi",
+        "Air Conditioning",
+        "Complimentary Drinks"
+      ],
+      "available": true
+    },
+    {
+      "id": "PS2",
+      "bookingcheck": "Private Office Standard",
+      "type": "Standard",
+      "imagepath": "assets/p2basicnew.jpg",
+      "people": "3 - 4 People",
+      "price": "20,000",
+      "permonth": " /month",
+      "details": [
+        "Meduim Room (100–250 sq ft)",
+        "Lockable Door",
+        "24/7 Access",
+        "High-Speed Wi-Fi",
+        "Air Conditioning",
+        "Complimentary Drinks"
+      ],
+      "available": true
+    },
+    {
+      "id": "PS3",
+      "bookingcheck": "Private Office Standard",
+      "type": "Standard",
+      "imagepath": "assets/ps3new.jpg",
+      "people": "3 - 4 People",
+      "price": "20,000",
+      "permonth": " /month",
+      "details": [
+        "Meduim Room (100–250 sq ft)",
+        "Lockable Door",
+        "24/7 Access",
+        "High-Speed Wi-Fi",
+        "Air Conditioning",
+        "Complimentary Drinks"
+      ],
+      "available": true
+    },
+    {
+      "id": "PP1",
+      "bookingcheck": "Private Office Premium",
+      "type": "Premium",
+      "imagepath": "assets/premiumPrivateOffice.jpg",
+      "people": "5 - 8 People",
+      "price": "35,000",
+      "permonth": " /month",
+      "details": [
+        "Large Room (250–500 sq ft)",
+        "Lockable Door",
+        "24/7 Access",
+        "High-Speed Wi-Fi",
+        "Air Conditioning",
+        "Complimentary Drinks"
+      ],
+      "available": true
+    },
+    {
+      "id": "PP2",
+      "bookingcheck": "Private Office Premium",
+      "type": "Premium",
+      "imagepath": "assets/ppnew1.jpg",
+      "people": "5 - 8 People",
+      "price": "35,000",
+      "permonth": " /month",
+      "details": [
+        "Large Room (250–500 sq ft)",
+        "Lockable Door",
+        "24/7 Access",
+        "High-Speed Wi-Fi",
+        "Air Conditioning",
+        "Complimentary Drinks"
+      ],
+      "available": false
+    },
+    {
+      "id": "PP3",
+      "bookingcheck": "Private Office Premium",
+      "type": "Premium",
+      "imagepath": "assets/ppnew2.webp",
+      "people": "5 - 8 People",
+      "price": "35,000",
+      "permonth": " /month",
+      "details": [
+        "Large Room (250–500 sq ft)",
+        "Lockable Door",
+        "24/7 Access",
+        "High-Speed Wi-Fi",
+        "Air Conditioning",
+        "Complimentary Drinks"
+      ],
+      "available": true
+    }
+  ],
+  "room": [
+    {
+      "id": "CB1",
+      "bookingcheck": "Conference Room Basic",
+      "type": "Basic",
+      "imagepath": "assets/basicMeetingRoom.webp",
+      "people": "2 - 4 people",
+      "price": "500",
+      "perhour": "/hour",
+      "details": [
+        "80–120 sq ft",
+        "Small Round Table",
+        "Lockable Door",
+        "1 LED screen (for screen sharing)",
+        "Whiteboard",
+        "24/7 Access",
+        "High-Speed Wi-Fi",
+        "Air Conditioning",
+        "Complimentary Drinks"
+      ],
+      "available": true
+    },
+    {
+      "id": "CS1",
+      "bookingcheck": "Conference Room Standard",
+      "type": "Standard",
+      "imagepath": "assets/standardMeetingRoom.avif",
+      "people": "6 - 8 people",
+      "price": "1000",
+      "perhour": "/hour",
+      "details": [
+        "150 - 200 sq ft",
+        "Meduim Space",
+        "Conference table",
+        "Video conferencing setup",
+        "24/7 Access",
+        "High-Speed Wi-Fi",
+        "Air Conditioning",
+        "Complimentary Drinks"
+      ],
+      "available": true
+    },
+    {
+      "id": "CP3",
+      "bookingcheck": "Conference Room Premium",
+      "type": "Premium",
+      "imagepath": "assets/premiumMeetingRoom.jpg",
+      "people": "8 - 13 people",
+      "price": "1000",
+      "perhour": "/hour",
+      "details": [
+        "250–400 sq ft",
+        "Large boardroom table",
+        "Projector + Large Screen",
+        "Premium video conferencing setup",
+        "Soundproofing",
+        "24/7 Access",
+        "High-Speed Wi-Fi",
+        "Air Conditioning",
+        "Complimentary Drinks"
+      ],
+      "available": true
+    }
+  ]
+}

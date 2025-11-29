@@ -1,0 +1,9 @@
+.card-xl {
+  min-width: 18rem; /* a bit wider than default */
+  min-height: 20rem; /* a bit taller than default */
+}
+.hover-shadow:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  transition: all 0.25s ease;
+}
