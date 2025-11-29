@@ -30,7 +30,7 @@ A professional React web application for booking office spaces, including dedica
 git clone https://github.com/tsneethu2016-coder/workhub-booking-react.git
 cd workhub-booking-react/js
 npm install
-# Optional: Start JSON server for mock data
+## Optional: Start JSON server for mock data
 npx json-server --watch data/db.json --port 8000
 npm start
 
